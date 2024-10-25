@@ -33,7 +33,7 @@ body{
 
 /* Home Style */
 #home{
-    background-image: url('../Company-Profile/img/home.png');
+    background-image: url('img/home.png');
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
